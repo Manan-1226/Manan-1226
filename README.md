@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Manan-1226
-- 👀 I’m interested in App Development and Data Analytics.
-- 🌱 I’m currently learning iOS.
-- 💞️ I’m looking to collaborate on Swift and iOS related projects.
+- 👀 I’m interested in Data Analytics.
 - 📫 You can contact me at "linkedin.com/in/manan-rastogi".
 
 <!---
